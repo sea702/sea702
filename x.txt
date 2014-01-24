@@ -2,4 +2,3 @@ git add
 git commit -m 'xxx'
 git push
 git pull
-git checkout
