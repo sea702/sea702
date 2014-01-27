@@ -33,6 +33,7 @@
 					<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="详细阅读 <?php the_title_attribute(); ?>"><?php echo cut_str($post->post_title,36); ?></a></h2>
 					<div class="info">
 						<span class="date"><?php the_time('m月d日') ?></span>
+						<span class="comment"> &#8260; <?php comments_popup_link('暂无评论', '评论 1 条', '评论 % 条'); ?></span>
 						<?php if(function_exists('the_views')) { print ' &#8260; 阅读 '; the_views(); print ' 次';  } ?>
 					</div>
 			</div>
@@ -71,6 +72,7 @@
 			</div>
 			<!-- end: cat_post_box -->
 				<div class="ption">
+					<span class="cat_name_c">共有<?php echo wt_get_category_count(); ?>篇文章</span>
 					<span class="archive_more"><a href="<?php echo get_category_link($category);?>" rel="bookmark" title="更多<?php single_cat_title(); ?>的文章">更  多</a></span>
 				</div>
 				<div class="clear"></div>
@@ -104,6 +106,7 @@
 					<h2><a href="<?php the_permalink() ?>" rel="bookmark" title="详细阅读 <?php the_title_attribute(); ?>"><?php echo cut_str($post->post_title,36); ?></a></h2>
 					<div class="info">
 						<span class="date"><?php the_time('m月d日') ?></span>
+						<span class="comment"> &#8260; <?php comments_popup_link('暂无评论', '评论数 1', '评论数 %'); ?></span>
 						<?php if(function_exists('the_views')) { print ' &#8260; 阅读 '; the_views(); print ' 次';  } ?>
 					</div>
 			</div>
@@ -141,6 +144,7 @@
 			</div>
 			<!-- end: cat_post_box -->
 				<div class="ption">
+					<span class="cat_name_c">共有<?php echo wt_get_category_count(); ?>篇文章</span>
 					<span class="archive_more"><a href="<?php echo get_category_link($category);?>" rel="bookmark" title="更多<?php single_cat_title(); ?>的文章">更  多</a></span>
 				</div>
 				<div class="clear"></div>
