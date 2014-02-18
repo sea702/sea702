@@ -9,7 +9,7 @@ from scrapy import log
 
 class DiyifanwenPipeline(object):
     def _connect_database(self):
-        self.conn = MySQLdb.connect(user="root", passwd="q1w2e3r4", host="127.0.0.1",db="spider",port=3306, charset="utf8")
+        self.conn = MySQLdb.connect(user="root", passwd="***", host="127.0.0.1",db="spider",port=3306, charset="utf8")
         self.cur = self.conn.cursor()
         self.cur.execute("SET NAMES utf8")
         log.msg("connect to database...")
