@@ -53,35 +53,35 @@ Template Name: homepage
 <p>FlowLayoutPanel 控件沿着水平或垂直流向排列其内容...</p></div></div>
 
 <ul>
-<li><a href="http://www.xuebuyuan.com/1705056.html">div+css 兼容ie6 ie7 ie8 ie9和FireFox Chrome等浏览器方法</a></li>
-<li><a href="http://www.xuebuyuan.com/1703963.html">纯CSS打造漂亮的按钮样式</a></li>
-<li><a href="http://www.xuebuyuan.com/1703944.html">javascript 触发事件列表</a></li>
-<li><a href="http://www.xuebuyuan.com/1703938.html">经典 JavaScript 正则表达式</a></li>
-<li><a href="http://www.xuebuyuan.com/1703933.html">JavaScript中复选框的全选和反选功能的实现</a></li>
+<li><a href="http://www.xuebuyuan.com/1807927.html">Ajax(Javascript)</a></li>
+<li><a href="http://www.xuebuyuan.com/1807901.html">如何在jsp页面中引入css样式表文件和javascript文件</a></li>
+<li><a href="http://www.xuebuyuan.com/1807763.html">xml webservice</a></li>
+<li><a href="http://www.xuebuyuan.com/1807349.html">JavaScript 基础</a></li>
+<li><a href="http://www.xuebuyuan.com/1807343.html">悟透JavaScript</a></li>
 
 </ul></div>
 
 <div class="hd-list"><p>最近更新</p><ul>
-<li>+<a href="http://www.xuebuyuan.com/1705429.html">javascript最全的10种跨域共享的方法</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705343.html">Adobe Flex开发包index.template.html页面跨站脚本漏洞</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705261.html">How to set third-party cookies with iframe?</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705242.html">Javascript Closures</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705203.html">JavaScript Madness: Dynamic Script Loading</a><span>01-27</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705196.html">Object-Oriented Event Listening through Partial Application in JavaScript</a><span>01-27</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705177.html">javascript实现二级联动下拉框!</a><span>01-27</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705059.html">css javascript等兼容IE6,IE7,IE8,IE9,FIREFOX,Chrome等浏览器详细解决方法</a><span>01-26</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808310.html">JavaScript获取元素在浏览器画布中的绝对位置</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808208.html">.net中如何在服务器端获取客户端的html标签控件。</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808169.html">JavaScript eval() 函数</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808063.html">Google 翻译之 Javascript版本</a><span>02-16</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808061.html">使用Red5作为流媒体服务器Action Script2.0开发的一些Flash流媒体小例子</a><span>02-16</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1807988.html">JavaScript读写XML数据</a><span>02-15</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1807972.html">初识html5 必须知道的五件事</a><span>02-15</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1807939.html">Javascript中valueOf()和toString()的区别</a><span>02-15</span></li>
 
 </ul></div>
 
 <div class="hd-hot"><p>热点内容</p><ul>
-<li><a href="http://www.xuebuyuan.com/1703911.html">Ajax链接服务器步骤</a></li>
-<li><a href="http://www.xuebuyuan.com/1703901.html">Javascript 操作select控件大全（新增、修改、删除、选中、清空、判断存在等）</a></li>
-<li><a href="http://www.xuebuyuan.com/1703896.html">jquery、html/css/javascript、jdk、struts1、struts2、hibernate、hibernate annotation、spring等在线文档</a></li>
-<li><a href="http://www.xuebuyuan.com/1703883.html">自动增加表名时，Ajax判断表名是否存在</a></li>
-<li><a href="http://www.xuebuyuan.com/1703834.html">JavaScript中 substring()和substr()</a></li>
-<li><a href="http://www.xuebuyuan.com/1703786.html">ajax异步加载页面代码</a></li>
-<li><a href="http://www.xuebuyuan.com/1703740.html">JavaScript中json对象和string对象之间相互转化</a></li>
-<li><a href="http://www.xuebuyuan.com/1703735.html">ajax乱码解决总结</a></li>
+<li><a href="http://www.xuebuyuan.com/1807137.html">转贴：用函数式编程技术编写优美的 JavaScript</a></li>
+<li><a href="http://www.xuebuyuan.com/1807118.html">有关 JavaScript 的 10 件让人费解的事情</a></li>
+<li><a href="http://www.xuebuyuan.com/1807104.html">javascript中的eval函数</a></li>
+<li><a href="http://www.xuebuyuan.com/1807102.html">15 个 JavaScript Web UI 库</a></li>
+<li><a href="http://www.xuebuyuan.com/1807096.html">Javascript 面向对象的Class, 怎么写最好.</a></li>
+<li><a href="http://www.xuebuyuan.com/1807077.html">如何在html的div上动态显示带忽略信息的字符串。</a></li>
+<li><a href="http://www.xuebuyuan.com/1807055.html">android利用WebView与JavaScript交互的方法</a></li>
+<li><a href="http://www.xuebuyuan.com/1806796.html">JavaScript实现贪蛇吃小游戏</a></li>
 
 </ul></div></div></div>
 
@@ -99,33 +99,33 @@ Template Name: homepage
 
 
 <ul>
-<li><a href="http://www.xuebuyuan.com/1705285.html">partition outer join in oracle 10g</a></li>
-<li><a href="http://www.xuebuyuan.com/1705284.html">Oracle 10g Enhancements to Analytical Functions -- Using Partitioned Outer Joins To "Densify" Data</a></li>
-<li><a href="http://www.xuebuyuan.com/1705282.html">Oracle and RTF data</a></li>
-<li><a href="http://www.xuebuyuan.com/1705281.html">Inside Oracle9i Tablespace Management</a></li>
-<li><a href="http://www.xuebuyuan.com/1705277.html">Inside Oracle LRU latches</a></li>
+<li><a href="http://www.xuebuyuan.com/1808221.html">asp.net中连不上数据库aspnetdb的疑问</a></li>
+<li><a href="http://www.xuebuyuan.com/1808218.html">sql 使用bcp进行导入导出数据</a></li>
+<li><a href="http://www.xuebuyuan.com/1808137.html">Android学习笔记 - 数据库篇 (SQLite)</a></li>
+<li><a href="http://www.xuebuyuan.com/1808094.html">数据库优化实践【索引篇】</a></li>
+<li><a href="http://www.xuebuyuan.com/1807983.html">如何防止SQL注入</a></li>
 
 </ul></div><div class="hd-list"><p>最近更新</p>
 <ul>
-<li>+<a href="http://www.xuebuyuan.com/1805558.html">黑客怎样攻破SQL服务器系统</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705402.html">所有数据库连接字符串</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705293.html">Virtual Private Database (VPD) with Oracle</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705290.html">Oracle SQL with multiple versions in the library cache</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705289.html">Oracle SQL tuning with column histograms</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705288.html">Oracle分析函数详述</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705287.html">Find sequence gaps using Oracle's analytic functions</a><span>01-28</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705286.html">一些oracle相关网站</a><span>01-28</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808295.html">sql语句使用总结</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808291.html">ASP——为实现前台和数据库分离写的数据库操作函数</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808264.html">MySQL交叉表</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808251.html">SQL Server 使用数据库发送邮件(sp_send_dbmail)</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808235.html">sql 存储过程  sp_executesql</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808234.html">SQL夸数据库访问数据</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808229.html">.Net---Sql数据库操作通用类库</a><span>02-17</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808226.html">SQL不要错过的博客和文章</a><span>02-17</span></li>
 
 </ul></div><div class="hd-hot"><p>热点内容</p>
 <ul>
-<li><a href="http://www.xuebuyuan.com/1705276.html">Oracle Trace Event 10046 Notes</a></li>
-<li><a href="http://www.xuebuyuan.com/1705273.html">Oracle Created (Default) Database Users</a></li>
-<li><a href="http://www.xuebuyuan.com/1705272.html">What are "versions" of an SQL statement?</a></li>
-<li><a href="http://www.xuebuyuan.com/1705269.html">oracle并行查询一例</a></li>
-<li><a href="http://www.xuebuyuan.com/1705263.html">DBMS_FILE_TRANSFER Package in Oracle Database 10g</a></li>
-<li><a href="http://www.xuebuyuan.com/1705259.html">Oracle Analytic SQL Practical Examples</a></li>
-<li><a href="http://www.xuebuyuan.com/1705254.html">Oracle直方图详解</a></li>
-<li><a href="http://www.xuebuyuan.com/1705247.html">他山之石，可以攻玉--Oracle自定义的聚集函数的强大功能</a></li>
+<li><a href="http://www.xuebuyuan.com/1807964.html">sql 汉字转首字母拼音</a></li>
+<li><a href="http://www.xuebuyuan.com/1807963.html">C#备份数据库</a></li>
+<li><a href="http://www.xuebuyuan.com/1807909.html">sql server 导出脚本 scptxfr.exe</a></li>
+<li><a href="http://www.xuebuyuan.com/1807905.html">用 SQL 脚本读取Excel 中的sheet数量及名称</a></li>
+<li><a href="http://www.xuebuyuan.com/1807903.html">保存包的副本到SQL Server</a></li>
+<li><a href="http://www.xuebuyuan.com/1807902.html">在SQL Server 中启用 FileStream</a></li>
+<li><a href="http://www.xuebuyuan.com/1807898.html">tomcat下配置数据库连接池</a></li>
+<li><a href="http://www.xuebuyuan.com/1807892.html">在使用Oracle9Ii时出现的一个问题～～</a></li>
 
 </ul></div></div></div>
 
@@ -137,36 +137,36 @@ Template Name: homepage
 
 <div class="hd-con clearfix"><div class="tuijian"><p>推荐内容</p>
 <ul>
-<li><a href="http://www.xuebuyuan.com/1705320.html">字符串函数源码</a></li>
-<li><a href="http://www.xuebuyuan.com/1705311.html">SourceInsight与PC-LINT集成进行代码静态分析</a></li>
-<li><a href="http://www.xuebuyuan.com/1705309.html">《高质量C/C++编程》学习笔记2（函数、指针、引用）</a></li>
-<li><a href="http://www.xuebuyuan.com/1705243.html">常用js代码</a></li>
-<li><a href="http://www.xuebuyuan.com/1705232.html">自定义分析函数</a></li>
-<li><a href="http://www.xuebuyuan.com/1705115.html">MogoDB常用函数</a></li>
-<li><a href="http://www.xuebuyuan.com/1705110.html">编程语言的发展趋势及未来方向</a></li>
-<li><a href="http://www.xuebuyuan.com/1705057.html">2012-06-29 09:01 JS代码判断浏览器版本,支持IE6,IE7,IE8,IE9！</a></li>
+<li><a href="http://www.xuebuyuan.com/1808255.html">从aspx转换为ashx时代码技巧</a></li>
+<li><a href="http://www.xuebuyuan.com/1808239.html">asp.net对cookie的操作(前台js和后台c#代码)</a></li>
+<li><a href="http://www.xuebuyuan.com/1808217.html">C#类的方法：重载，从写，虚函数，抽象函数，隐藏基类方法！</a></li>
+<li><a href="http://www.xuebuyuan.com/1808214.html">C#3.0中的Lambda表达式和匿名函数。</a></li>
+<li><a href="http://www.xuebuyuan.com/1808211.html">C#中String str与String str=“”的区别 及 函数的参数数组。</a></li>
+<li><a href="http://www.xuebuyuan.com/1808171.html">如何让MyEclipse的代码提示功能和VS一样强大</a></li>
+<li><a href="http://www.xuebuyuan.com/1808159.html">ubuntu下编译android代码</a></li>
+<li><a href="http://www.xuebuyuan.com/1808091.html">对蓝风车的运动估计算法代码的个人理解</a></li>
 
 </ul></div><div class="hd-list"><p>最近更新</p>
 <ul>
-<li>+<a href="http://www.xuebuyuan.com/1705443.html">php的foreach，while，for的性能比较</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705437.html">创建函数别名</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705436.html">php中array_merge和array+array的差别</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705430.html">php中jsonp的跨域实例</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705415.html">一些字符串及内存操作的函数的实现</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705397.html">Java中创建口令密钥的代码</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705387.html">三国战纪物品代码</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1705324.html">VB获取命令行参数列表</a><span>01-28</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808396.html">parent参数</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808380.html">Qt下拷贝文件夹的函数</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808355.html">pthread库学习-2：基本函数</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808341.html">IPC--信号（2）--信号的发送 & 信号函数的安装</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808340.html">回调函数</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808329.html">宽字符处理函数和窄字符处理函数对应表</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808297.html">web文本框限制字数经典代码</a><span>02-18</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1808292.html">常用GUID的生成代码</a><span>02-18</span></li>
 
 </ul></div><div class="hd-hot"><p>热点内容</p>
 <ul>
-<li><a href="http://www.xuebuyuan.com/1705047.html">网站首页head区代码规范</a></li>
-<li><a href="http://www.xuebuyuan.com/1705008.html">java中String字符串的替换函数：replace与replaceAll的区别</a></li>
-<li><a href="http://www.xuebuyuan.com/1703942.html">向上逐行滚动JS代码，鼠标划过暂停</a></li>
-<li><a href="http://www.xuebuyuan.com/1703932.html">JAVA代码验证身份证信息</a></li>
-<li><a href="http://www.xuebuyuan.com/1703922.html">页面之间传递和接收显示中文参数</a></li>
-<li><a href="http://www.xuebuyuan.com/1703867.html">eval函数详解</a></li>
-<li><a href="http://www.xuebuyuan.com/1703847.html">你真想到了50岁还靠编程来养家糊口吗？</a></li>
-<li><a href="http://www.xuebuyuan.com/1703772.html">Java回调函数的理解</a></li>
+<li><a href="http://www.xuebuyuan.com/1808090.html">关于JM测试模型参数的设定的简单方法:</a></li>
+<li><a href="http://www.xuebuyuan.com/1808085.html">Liferay学习历程一：编译源代码</a></li>
+<li><a href="http://www.xuebuyuan.com/1807971.html">路路酷的代码生成器 功能介绍说明</a></li>
+<li><a href="http://www.xuebuyuan.com/1807945.html">PHP中 Classes/Object 函数</a></li>
+<li><a href="http://www.xuebuyuan.com/1807944.html">PHP魔术函数简介</a></li>
+<li><a href="http://www.xuebuyuan.com/1807942.html">PHP常用的代码检测输出函数</a></li>
+<li><a href="http://www.xuebuyuan.com/1807938.html">常用的.htaccess代码片段</a></li>
+<li><a href="http://www.xuebuyuan.com/1807917.html">【Visual C++】游戏开发笔记二十九  一步一步教你用优雅的Direct3D11代码画一个三角形</a></li>
 
 </ul></div></div></div>
 
@@ -187,7 +187,7 @@ Template Name: homepage
 
 </ul></div><div class="hd-list"><p>最近更新</p>
 <ul>
-<li>+<a href="http://www.xuebuyuan.com/1563515.html">Spiders  求树的直径(距离最远的两个点)</a><span>12-20</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1563515.html">Spiders  求树的直径(距离最远的两个点)</a><span>02-01</span></li>
 <li>+<a href="http://www.xuebuyuan.com/1683639.html">[转帖]robots.txt和Robots META标签</a><span>12-14</span></li>
 <li>+<a href="http://www.xuebuyuan.com/1510389.html">pre-emptive multithreading web spider</a><span>12-10</span></li>
 <li>+<a href="http://www.xuebuyuan.com/1501766.html">Web Spider提取编码方法总结（二）</a><span>12-09</span></li>
@@ -217,35 +217,35 @@ Template Name: homepage
 <div class="hd"><div class="hd-banner"><h2>算法</h2></div>
 
 <div class="hd-con clearfix"><div class="tuijian"><p>推荐内容</p><ul>
+<li><a href="http://www.xuebuyuan.com/1806192.html">poj1129 Channel Allocation [osily]</a></li>
+<li><a href="http://www.xuebuyuan.com/1805938.html">poj 1067 威佐夫博奕</a></li>
+<li><a href="http://www.xuebuyuan.com/1805633.html">poj 3277 City Horizon</a></li>
+<li><a href="http://www.xuebuyuan.com/1805554.html">Hard Life poj3155</a></li>
+<li><a href="http://www.xuebuyuan.com/1805569.html">poj1009</a></li>
+<li><a href="http://www.xuebuyuan.com/1703807.html">poj1002</a></li>
+<li><a href="http://www.xuebuyuan.com/1703577.html">poj1001</a></li>
+<li><a href="http://www.xuebuyuan.com/1703076.html">poj3985</a></li>
+
+</ul></div><div class="hd-list"><p>最近更新</p><ul>
+<li>+<a href="http://www.xuebuyuan.com/1807705.html">poj3693之后缀数组</a><span>02-13</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1807642.html">poj 1579(递归)</a><span>02-13</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1807398.html">LCA问题 poj1330 / poj1470</a><span>02-11</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1806714.html">poj3900</a><span>02-06</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1806354.html">poj 1026解题报告</a><span>02-04</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1806312.html">poj1077Eight</a><span>02-04</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1806269.html">poj2599 A funny game</a><span>02-03</span></li>
+<li>+<a href="http://www.xuebuyuan.com/1806275.html">poj3983</a><span>02-03</span></li>
+
+</ul></div><div class="hd-hot"><p>热点内容</p>
+<ul>
+<li><a href="http://www.xuebuyuan.com/1677197.html">利用JAXB 返回 POJO对象</a></li>
+<li><a href="http://www.xuebuyuan.com/1675138.html">poj 1086</a></li>
+<li><a href="http://www.xuebuyuan.com/1687605.html">PO BO VO DTO POJO DAO概念及其作用(转）</a></li>
+<li><a href="http://www.xuebuyuan.com/1673565.html">POJ 2488 爵士游行问题--DFS遍历</a></li>
 <li><a href="http://www.xuebuyuan.com/1684796.html">Entity Bean vs Hibernate Pojo</a></li>
 <li><a href="http://www.xuebuyuan.com/1675141.html">poj 1086</a></li>
 <li><a href="http://www.xuebuyuan.com/1675139.html">poj 1086</a></li>
 <li><a href="http://www.xuebuyuan.com/1692899.html">POJ 1269 Intersecting Lines</a></li>
-<li><a href="http://www.xuebuyuan.com/1692953.html">SPOJ 1043</a></li>
-<li><a href="http://www.xuebuyuan.com/1692954.html">POJ 2823</a></li>
-<li><a href="http://www.xuebuyuan.com/1692938.html">POJ 2349 Arctic Network</a></li>
-<li><a href="http://www.xuebuyuan.com/1692908.html">POJ 2488</a></li>
-
-</ul></div><div class="hd-list"><p>最近更新</p><ul>
-<li>+<a href="http://www.xuebuyuan.com/1805554.html">Hard Life poj3155</a><span>01-29</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1703807.html">poj1002</a><span>01-25</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1703577.html">poj1001</a><span>01-23</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1703076.html">poj3985</a><span>01-19</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1677197.html">利用JAXB 返回 POJO对象</a><span>12-19</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1675138.html">poj 1086</a><span>12-17</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1687605.html">PO BO VO DTO POJO DAO概念及其作用(转）</a><span>12-14</span></li>
-<li>+<a href="http://www.xuebuyuan.com/1673565.html">POJ 2488 爵士游行问题--DFS遍历</a><span>12-09</span></li>
-
-</ul></div><div class="hd-hot"><p>热点内容</p>
-<ul>
-<li><a href="http://www.xuebuyuan.com/1692898.html">POJ 3304 Segments</a></li>
-<li><a href="http://www.xuebuyuan.com/1692863.html">POJ 2007 Scrambled Polygon</a></li>
-<li><a href="http://www.xuebuyuan.com/1675142.html">poj 1086</a></li>
-<li><a href="http://www.xuebuyuan.com/1692892.html">POJ 题目分类（二）</a></li>
-<li><a href="http://www.xuebuyuan.com/1693647.html">poj-1002</a></li>
-<li><a href="http://www.xuebuyuan.com/1673566.html">POJ 1061 青蛙的约会 数学题</a></li>
-<li><a href="http://www.xuebuyuan.com/1692890.html">POJ 2653 Pick-up sticks</a></li>
-<li><a href="http://www.xuebuyuan.com/1692942.html">POJ 2386</a></li>
 
 </ul></div></div></div>
 
@@ -264,16 +264,21 @@ Template Name: homepage
 <li><a href="http://www.chengxuyuan.com/" target="_blank">程序员</a></li>
 <li><a href="http://www.gflags.com/" target="_blank">G旗帜</a></li>
 <li><a href="http://www.leiniao8.net/" target="_blank">心情日记</a></li>
-<li><a href="http://www.nj-gs.com" target="_blank">软式透水管</a></li>
+<li><a href="http://www.nj-gs.com" target="_blank">南京广水防排水材料有限公司</a></li>
 <li><a href="http://www.hfbjbj.com/" target="_blank">合肥保洁公司</a></li>
 <li><a href="http://www.kh0010.com" target="_blank">防火隔离带</a></li>
 <li><a href="http://www.haidasuji.com" target="_blank">海达注塑机</a></li>
 <li><a href="http://www.hbdongri.com" target="_blank">水泥泡沫保温板</a></li>
-<li><a href="http://www.dinbon.com" target="_blank">财会模拟实验室设</a></li>
+<li><a href="http://www.dinbon.com" target="_blank">上海顶邦公司</a></li>
 <li><a href="http://www.miaiduo.com/" target="_blank">米爱多-金融信息平台</a></li>
 <li><a href="http://www.daixiaomi.com/" target="_blank">贷小秘贷款平台</a></li>
 <li><a href="http://bbs.anquan365.com/" target="_blank">安全365论坛</a></li>
 <li><a href="http://www.yeszuche.com/" target="_blank">泉州租车</a></li>
+<li><a href="http://www.cyuyan.com.cn/" target="_blank">c语言</a></li>
+<li><a href="http://daxue.k8008.com/" target="_blank">科易大学城</a></li>
+<li><a href="http://www.artcss.com/" target="_blank">前端思考</a></li>
+<li><a href="http://www.haocodes.com/" target="_blank">好源码</a></li>
+<li><a href="http://www.bjcn.cc/" target="_blank">北京城南网</a></li>
 
 </ul>
 

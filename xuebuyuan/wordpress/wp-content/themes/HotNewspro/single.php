@@ -65,6 +65,9 @@
 		<?php if (get_option('swt_adt') == '关闭') { ?>
 		<?php { echo ''; } ?>
 		<?php } else { include(TEMPLATEPATH . '/includes/adt.php'); } ?>
+
+		<?php include(TEMPLATEPATH . '/includes/baidu_tuijian.php'); ?>
+
 		<div class="context_b">
 			<?php previous_post_link('【上篇】%link') ?><br/><?php next_post_link('【下篇】%link') ?>
 			<i class="lt"></i>
@@ -78,6 +81,7 @@
 		<?php } else { include(TEMPLATEPATH . '/includes/related_a.php'); } ?>
 		<!-- end: relatedposts -->
 		<!-- entrymeta -->
+
 		<div class="entrymeta">
 			<div class="authorbio">
 				<div class="author_pic">

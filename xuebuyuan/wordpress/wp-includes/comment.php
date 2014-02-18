@@ -2089,6 +2089,7 @@ function do_all_pings() {
 	// Do Trackbacks
 #xietian
 #	$trackbacks = $wpdb->get_col("SELECT ID FROM $wpdb->posts WHERE to_ping <> '' AND post_status = 'publish'");
+
 	if ( is_array($trackbacks) )
 		foreach ( $trackbacks as $trackback )
 			do_trackbacks($trackback);

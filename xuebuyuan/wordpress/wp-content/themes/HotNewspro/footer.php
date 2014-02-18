@@ -20,7 +20,7 @@
 <!-- 页脚 -->
 <?php wp_reset_query();if (is_single() || is_page() || is_archive() || is_search() || is_404()) { ?>
 <div class="footer_bottom_a">
-	Copyright <?php echo comicpress_copyright(); ?> <?php bloginfo('name'); ?>&nbsp;&nbsp;保留所有权利.<br>
+	Copyright <?php echo comicpress_copyright(); ?> <?php bloginfo('name'); ?>&nbsp;&nbsp;保留所有权利.
 	<?php echo stripslashes(get_option('swt_track_code')); ?>
 	<big class="lb"></big>
 	<big class="rb"></big>
@@ -49,6 +49,7 @@
 <!-- end: link -->
 <div class="footer_bottom">
 	Copyright <?php echo comicpress_copyright(); ?> <?php bloginfo('name'); ?>&nbsp;&nbsp;保留所有权利.<br>
+	冀ICP备08106218号-27
 	<?php echo stripslashes(get_option('swt_track_code')); ?>
 </div>
 <?php } ?>

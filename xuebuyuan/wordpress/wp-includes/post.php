@@ -2093,8 +2093,8 @@ function unstick_post($post_id) {
  */
 function wp_count_posts( $type = 'post', $perm = '' ) {
 #xietian add
-	$counts = 1798918;
-	return apply_filters( 'wp_count_posts', $counts, $type, $perm );
+        $counts = 1798918;
+        return apply_filters( 'wp_count_posts', $counts, $type, $perm );
 
 	global $wpdb;
 
@@ -2131,7 +2131,7 @@ function wp_count_posts( $type = 'post', $perm = '' ) {
 	 * Modify returned post counts by status for the current post type.
 	 *
 	 * @since 3.7.0
-	 n
+	 *
 	 * @param object $counts An object containing the current post_type's post counts by status.
 	 * @param string $type   The post type.
 	 * @param string $perm   The permission to determine if the posts are 'readable' by the current user.
