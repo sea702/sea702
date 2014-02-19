@@ -49,15 +49,14 @@ class GetContentSpider(BaseSpider):
         count = 0
         while count == 0:
             try:
-                count = self.cur.execute('select ID, url from linkbase_diyifanwen where status > 1000000000 and status < 2000000000 limit 1')
+                count = self.cur.execute('select ID, url from linkbase_diyifanwen where status=1 limit 1')
                 log.msg('select ID, url from linkbase_diyifanwen.. count = %d' % count)
                 if count > 0:
                     row = self.cur.fetchone()
                     ID = row[0]
                     url = row[1]
-                    status = int(ID) + 2000000000
-                    self.cur.execute('update linkbase_diyifanwen set status = %s where url = %s', (str(status),url))
-                    log.msg('update linkbase_diyifanwen set status = %s where url = %s' % (str(status),url), level=log.INFO)
+                    self.cur.execute('update linkbase_diyifanwen set status = 2 where url = %s', url)
+                    log.msg('update linkbase_diyifanwen set status = 2 where url = %s' % url, level=log.INFO)
                     return Request(url, callback=self.parse)
                 else:
                     log.msg('no valid data, waiting for 10 seconds')

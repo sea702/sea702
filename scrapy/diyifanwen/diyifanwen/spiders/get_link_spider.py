@@ -64,15 +64,14 @@ class GetLinkSpider(BaseSpider):
         count = 0
         while count == 0:
             try:
-                count = self.cur.execute('select ID, url from linkbase_diyifanwen where status < 100000000 or status is null limit 1')
+                count = self.cur.execute('select ID, url from linkbase_diyifanwen where status = 0 limit 1')
                 log.msg('select url from linkbase_diyifanwen..')
                 if count > 0:
                     row = self.cur.fetchone()
                     ID = row[0]
                     url = row[1]
-                    status = int(ID) + 1000000000
-                    self.cur.execute('update linkbase_diyifanwen set status = %s where ID = %s', (str(status),str(ID)))
-                    log.msg('update linkbase_diyifanwen set status = %s where url = %s' % (str(status), url), level=log.INFO)
+                    self.cur.execute('update linkbase_diyifanwen set status = 1 where ID = %s', ID)
+                    log.msg('update linkbase_diyifanwen set status = 1 where url = %s' % url, level=log.INFO)
                     return Request(url, callback=self.parse_link)
                 else:
                     log.msg('no valid data, waiting for 10 seconds')
